@@ -1,4 +1,6 @@
-## Hi there 👋
+## GitHub Stats
+
+[![Benieric's GitHub stats](https://github-readme-stats.vercel.app/api?username=benieric&theme=tokyonight&show_icons=true)](https://github.com/benieric/github-readme-stats)
 
 <!--
 **benieric/benieric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
