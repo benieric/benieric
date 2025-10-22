@@ -10,7 +10,7 @@ Just trying to make some cool things on the Internet.
 - 🐱 I have a cat named Fig Newton
 - 💡 Love solving problems and fixing things - my favorite thing about software engineering is learning something new every day
 
-  ## Stats 👾
+## Stats 👾
 ![Benieric's GitHub stats](https://github-readme-stats.vercel.app/api?username=benieric&show_icons=true&rank_icon=github&include_all_commits=true&custom_title=Erick's%20GitHub%20Stats&theme=midnight-purple)
 
 ## Spotify 🎧
