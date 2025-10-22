@@ -4,7 +4,11 @@ Just trying to make some cool things on the Internet.
 
 - 💻 Software Engineer - AWS, Amazon, [SageMaker AI](https://aws.amazon.com/sagemaker/), [SageMaker PySDK](https://aws.amazon.com/blogs/machine-learning/accelerate-your-ml-lifecycle-using-the-new-and-improved-amazon-sagemaker-python-sdk-part-1-modeltrainer/)
 - 📚 Studied Computer Science at [Georgia Tech](https://www.cc.gatech.edu/)
-- ⚡ Fun fact: I like walking, learning about tech, and talking about JSONs
+- 🥊 Former competitive boxer - competed at National Collegiate level for 5 years
+- 🌍 Love exploring new places and meeting new people
+- 🧠 Passionate about mental health awareness and learning about the brain
+- 🐱 I have a cat named Fig Newton
+- 💡 Love solving problems and fixing things - my favorite thing about software engineering is learning something new every day
 
   ## Stats 👾
 ![Benieric's GitHub stats](https://github-readme-stats.vercel.app/api?username=benieric&show_icons=true&rank_icon=github&include_all_commits=true&custom_title=Erick's%20GitHub%20Stats&theme=midnight-purple)
