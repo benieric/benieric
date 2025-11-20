@@ -2,8 +2,6 @@
 
 Just trying to make some cool things on the Internet.
 
-Just trying to make some cool things on the Internet.
-
 - 💻 Software Engineer - AWS, Amazon, [SageMaker AI](https://aws.amazon.com/sagemaker/), [SageMaker PySDK](https://aws.amazon.com/blogs/machine-learning/accelerate-your-ml-lifecycle-using-the-new-and-improved-amazon-sagemaker-python-sdk-part-1-modeltrainer/)
 - 📚 Studied Computer Science at [Georgia Tech](https://www.cc.gatech.edu/)
 - ⚡ Fun fact: I like running, learning about tech, and talking about JSONs
